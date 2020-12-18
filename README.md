@@ -1,2 +1,1 @@
-# Mechanic-discord
-My BetterDiscord Theme
+# Sweety Discord
